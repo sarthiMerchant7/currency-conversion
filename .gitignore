@@ -1,0 +1,13 @@
+
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+target/test-classes/com/currency/conversion/CurrencyConversionApplicationTests.class
+target/classes/META-INF/maven/com.currency/currency-conversion/pom.xml
+target/classes/META-INF/maven/com.currency/currency-conversion/pom.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/com/currency/conversion/CurrencyConversionApplication.class
+target/classes/application.properties
+.settings/org.eclipse.m2e.core.prefs
