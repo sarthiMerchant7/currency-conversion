@@ -11,3 +11,16 @@ target/classes/META-INF/MANIFEST.MF
 target/classes/com/currency/conversion/CurrencyConversionApplication.class
 target/classes/application.properties
 .settings/org.eclipse.m2e.core.prefs
+.settings/org.springframework.ide.eclipse.prefs
+src/main/.DS_Store
+src/main/java/.DS_Store
+target/classes/.DS_Store
+target/classes/com/currency/conversion/controller/CurrencyConversionController.class
+target/classes/com/currency/conversion/model/CurrencyRateModel.class
+target/classes/com/currency/conversion/model/CurrencyRatePath.class
+target/classes/com/currency/conversion/service/CurrecyConversionService.class
+target/classes/com/currency/conversion/service/impl/CurrecyConversionServiceImpl.class
+target/classes/com/currency/conversion/utility/CurrencyConversionUtility$1.class
+target/classes/com/currency/conversion/utility/CurrencyConversionUtility.class
+target/classes/com/currency/conversion/utility/CurrencyMapAlgorithm.class
+target/classes/com/currency/conversion/utility/CurrencyMapping.class
