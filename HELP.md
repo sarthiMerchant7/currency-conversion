@@ -18,4 +18,4 @@ How to run
 
 Notes:
 
-* OpenJDK 17 and Springboot version 2.7.8 has been used to develop this application.[Currency-coversion-rate (3).csv]
+* OpenJDK 17 and Springboot version 2.7.8 has been used to develop this application.
