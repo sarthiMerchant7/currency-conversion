@@ -1,17 +1,21 @@
-# Getting Started
+# Currency Conversion
 
-### Reference Documentation
-For further reference, please consider the following sections:
+Example
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.8/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.8/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.7.8/reference/htmlsingle/#web)
+Convert CAD to HKD
+CAD -> USD -> HKD
 
-### Guides
-The following guides illustrate how to use some features concretely:
+There are no cycles
+CAD -> GBP -> EUR -> GBP
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+How to run
 
+* Download the project and import the code in IDE.
+* Start the Springboot application from IDE. Default port is 8080. 
+* We can change the port from application property file.
+* Use URL to download the CSV file. http://localhost:8080/api/v1/currency/get-conversion-rate-csv
+* Sample currency rate file has been attached. (https://github.com/sarthiMerchant7/currency-conversion/files/10674275/Currency-coversion-rate.3.csv)
+
+Notes:
+
+* OpenJDK 17 and Springboot version 2.7.8 has been used to develop this application.[Currency-coversion-rate (3).csv]
